@@ -1,1 +1,21 @@
-
+{
+  "version": "1.0.0",
+  "themes": [
+    {
+      "id": "Anime_Amaze",
+      "name": "Anime Amaze-Naruto",
+      "description": "A stunning anime-inspired depthified wallpaper.",
+      "previewUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/blob/main/wallpapers/Anime_Amaze-Naruto/preview.jpg?raw=true",
+      "author": "Adaxhhh",
+      "tags": ["anime", "city", "night", "neon"],
+      "resolutions": [
+        {
+          "resolution": "1366x768",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/ExampleThemeRelease/Anime_Amaze-2560x1440.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 8.1
+        }
+    }
+  ]
+}
