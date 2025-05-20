@@ -1,48 +1,67 @@
 {
-  "version": "1.0.0",
-  "themes": [
-    {
-      "id": "Anime_Amaze",
-      "name": "Anime Amaze-Naruto",
-      "description": "A stunning anime-inspired depthified wallpaper.",
-      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/wallpapers/Anime_Amaze-Naruto/preview.jpg",
-      "author": "Adaxhhh",
-      "tags": [
-        "anime",
-        "city",
-        "night",
-        "neon"
-      ],
-      "resolutions": [
+    "version": "1.0.0",
+    "themes": [
         {
-          "resolution": "1366x768",
-          "version": "1.0.0",
-          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Anime_Amaze_Naruto-v1.0.0/Anime_Amaze_Naruto.zip",
-          "liteModeAvailable": false,
-          "defaultLiteMode": false,
-          "sizeMB": 3.3
-        }
-      ]
-    },
-    {
-      "id": "Mountain_Peak",
-      "name": "Depthified-Mountain",
-      "description": "A beautiful iOS inspired depth effect wallpaper inspired by nature",
-      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Depthified-Mountain/preview.jpg",
-      "author": "Adaxhhh",
-      "tags": [
-        "nature"
-      ],
-      "resolutions": [
+            "id": "Anime_Amaze",
+            "name": "Anime Amaze-Naruto",
+            "description": "A stunning anime-inspired depthified wallpaper.",
+            "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/wallpapers/Anime_Amaze-Naruto/preview.jpg",
+            "author": "Adaxhhh",
+            "tags": [
+                "anime",
+                "city",
+                "night",
+                "neon"
+            ],
+            "resolutions": [
+                {
+                    "resolution": "1366x768",
+                    "version": "1.0.0",
+                    "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Anime_Amaze_Naruto-v1.0.0/Anime_Amaze_Naruto.zip",
+                    "liteModeAvailable": false,
+                    "defaultLiteMode": false,
+                    "sizeMB": 3.3
+                }
+            ]
+        },
         {
-          "resolution": "1366x768",
-          "version": "1.0.0",
-          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Depthified-Mountain-v1.0.0/Depthified-Mountain.zip",
-          "liteModeAvailable": false,
-          "defaultLiteMode": false,
-          "sizeMB": 4.4
+            "id": "Mountain_Peak",
+            "name": "Depthified-Mountain",
+            "description": "A beautiful iOS inspired depth effect wallpaper inspired by nature",
+            "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Depthified-Mountain/preview.jpg",
+            "author": "Adaxhhh",
+            "tags": [
+                "nature"
+            ],
+            "resolutions": [
+                {
+                    "resolution": "1366x768",
+                    "version": "1.0.0",
+                    "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Depthified-Mountain-v1.0.0/Depthified-Mountain.zip",
+                    "liteModeAvailable": false,
+                    "defaultLiteMode": false,
+                    "sizeMB": 4.4
+                }
+            ]
+        },
+        {
+            "id": "spider-man",
+            "name": "Marvel Spider Man",
+            "description": "A asthetic looking depth effect spider man for marvel fans",
+            "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Spider-man/preview.jpg",
+            "author": "Adaxhhh",
+            "tags": [
+                "Marvel"
+            ],
+            "resolutions": [
+                {
+                    "resolution": "1366x768",
+                    "version": "1.0.0",
+                    "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Spider-Man-v1.0.0/Spider-man.zip",
+                    "liteModeAvailable": false,
+                    "sizeMB": 6.6
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
