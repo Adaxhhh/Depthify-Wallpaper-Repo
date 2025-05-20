@@ -25,24 +25,24 @@
       ]
     },
     {
+      "id": "Mountain_Peak",
+      "name": "Depthified-Mountain",
+      "description": "A beautiful iOS inspired depth effect wallpaper inspired by nature",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Depthified-Mountain/preview.jpg",
+      "author": "Adaxhhh",
+      "tags": [
+        "nature"
+      ],
       "resolutions": [
         {
           "resolution": "1366x768",
           "version": "1.0.0",
           "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Depthified-Mountain-v1.0.0/Depthified-Mountain.zip",
           "liteModeAvailable": false,
-		  "defaultLiteMode": false
+          "defaultLiteMode": false,
           "sizeMB": 4.4
         }
-      ],
-      "id": "Mountain_Peak",
-      "name": "Depthified-Mountain",
-      "description": "A beautiful ios inspired depth effect wallpaper inspired by nature",
-      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Depthified-Mountain/preview.jpg",
-      "author": "Adaxhhh",
-      "tags": [
-        "nature"
       ]
     }
-  ],
+  ]
 }
