@@ -45,13 +45,7 @@
       ]
     },
     {
-      "id": "spider-man",
-      "name": "Marvel Spider Man",
-      "description": "A asthetic looking depth effect spider man for marvel fans",
-      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Spider-man/preview.jpg",
-      "author": "Adaxhhh",
-      "tags": "Marvel",
-	  "resolutions": [
+      "resolutions": [
         {
           "resolution": "1366x768",
           "version": "1.0.0",
@@ -66,7 +60,13 @@
           "liteModeAvailable": false,
           "sizeMB": 4.0
         }
-      ]
+      ],
+      "id": "spider-man",
+      "name": "Marvel Spider Man",
+      "description": "A asthetic looking depth effect spider man for marvel fans",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Spider-man/preview.jpg",
+      "author": "Adaxhhh",
+      "tags": "Marvel"
     }
   ]
 }
