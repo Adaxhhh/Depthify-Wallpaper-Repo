@@ -28,7 +28,7 @@
       "id": "Mountain_Peak",
       "name": "Depthified-Mountain",
       "description": "A beautiful iOS inspired depth effect wallpaper inspired by nature",
-      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Depthified-Mountain/preview.jpg",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/wallpapers/Depthified-Mountain/preview.jpg",
       "author": "Adaxhhh",
       "tags": [
         "nature"
@@ -45,12 +45,19 @@
       ]
     },
     {
+      "id": "spider-man",
+      "name": "Marvel Spider Man",
+      "description": "A asthetic looking depth effect spider man for marvel fans",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/wallpapers/Spider-man/preview.jpg",
+      "author": "Adaxhhh",
+      "tags": ["Marvel"],
       "resolutions": [
         {
           "resolution": "1366x768",
           "version": "1.0.0",
           "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Spider-Man-v1.0.0/Spider-man.zip",
           "liteModeAvailable": false,
+          "defaultLiteMode": false,
           "sizeMB": 6.6
         },
         {
@@ -58,15 +65,10 @@
           "version": "1.0.0",
           "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Spider-Man-v1.0.0-1920x1080/Spider-Man.zip",
           "liteModeAvailable": false,
+          "defaultLiteMode": false,
           "sizeMB": 4.0
         }
-      ],
-      "id": "spider-man",
-      "name": "Marvel Spider Man",
-      "description": "A asthetic looking depth effect spider man for marvel fans",
-      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Spider-man/preview.jpg",
-      "author": "Adaxhhh",
-      "tags": "Marvel"
+      ]
     }
   ]
 }
