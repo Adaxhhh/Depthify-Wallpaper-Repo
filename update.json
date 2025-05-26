@@ -49,7 +49,7 @@
       "name": "Marvel Spider Man",
       "description": "A asthetic looking depth effect spider man for marvel fans",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/wallpapers/Spider-man/preview.jpg",
-      "author": "Adaxhhh",
+      "author": "Adaxhhh and Kremon",
       "tags": [
         "Marvel"
       ],
@@ -89,6 +89,25 @@
       "author": "Adaxhhh",
       "tags": [
         "Night"
+      ]
+    },
+    {
+      "resolutions": [
+        {
+          "resolution": "1366x768",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Deadpool-v1.0.0/Deadpool.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 5.2
+        }
+      ],
+      "id": "Deadpool",
+      "name": "Dead-Pool",
+      "description": "A Depthified Red Deadpool wallpaper theme for all deadpool fans",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Deadpool/preview.jpg",
+      "author": "Adaxhhh and Kremon",
+      "tags": [
+        "Deadpool"
       ]
     }
   ]
