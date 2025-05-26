@@ -109,6 +109,26 @@
       "tags": [
         "Deadpool"
       ]
+    },
+    {
+      "resolutions": [
+        {
+          "resolution": "1366x768",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Iron-Man-v1.0.0/Iron-Man.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 4.8
+        }
+      ],
+      "id": "Iron-Man",
+      "name": "Iron Man",
+      "description": "Depthified Iron Man Wallpaper",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Iron-Man/preview.jpg",
+      "author": "Adaxhhh and kremon",
+      "tags": [
+        "Marvel",
+        "Iron-Man"
+      ]
     }
   ]
 }
