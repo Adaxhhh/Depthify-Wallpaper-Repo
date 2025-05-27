@@ -129,6 +129,26 @@
         "Marvel",
         "Iron-Man"
       ]
+    },
+    {
+      "resolutions": [
+        {
+          "resolution": "1366x768",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Lofi-Boy-v1.0.0/Lofi-Boy.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 4.5
+        }
+      ],
+      "id": "Lofi-Boy",
+      "name": "Lofi Boy",
+      "description": "Kyu nhi ho rhi padhai?",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Lofi-Boy/preview.jpg",
+      "author": "Adaxhhh and Kremon",
+      "tags": [
+        "Lofi",
+        "Study"
+      ]
     }
   ]
 }
