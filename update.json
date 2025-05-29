@@ -80,6 +80,13 @@
           "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/island-night-moon-v1.0.0/Island-night-moon.zip",
           "liteModeAvailable": false,
           "sizeMB": 3.8
+        },
+        {
+          "resolution": "1920x1080",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/island-night-moon-v1.0.0/island.night.moon-1920x1080.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 4.9
         }
       ],
       "id": "island-night-moon",
@@ -87,9 +94,7 @@
       "description": "A shining moon wallpaper theme beautifully crafted with depth effect",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/island-night-moon/preview.jpg",
       "author": "Adaxhhh",
-      "tags": [
-        "Night"
-      ]
+      "tags": "Night"
     },
     {
       "resolutions": [
