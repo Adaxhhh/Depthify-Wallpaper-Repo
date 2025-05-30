@@ -94,7 +94,7 @@
       "description": "A shining moon wallpaper theme beautifully crafted with depth effect",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/island-night-moon/preview.jpg",
       "author": "Adaxhhh",
-      "tags": ["Night"]
+      "tags": "Night"
     },
     {
       "resolutions": [
@@ -104,6 +104,13 @@
           "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Deadpool-v1.0.0/Deadpool.zip",
           "liteModeAvailable": false,
           "sizeMB": 5.2
+        },
+        {
+          "resolution": "1920x1080",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Deadpool-v1.0.0/Dead-Pool-1920x1080.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 8.2
         }
       ],
       "id": "Deadpool",
@@ -111,9 +118,7 @@
       "description": "A Depthified Red Deadpool wallpaper theme for all deadpool fans",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Deadpool/preview.jpg",
       "author": "Adaxhhh and Kremon",
-      "tags": [
-        "Deadpool"
-      ]
+      "tags": ["Deadpool"]
     },
     {
       "resolutions": [
@@ -155,5 +160,6 @@
         "Study"
       ]
     }
-  ]
+  ],
+  "lastUpdated": "2025-05-30T19:16:44.912085"
 }
