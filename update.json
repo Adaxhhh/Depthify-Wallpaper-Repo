@@ -118,7 +118,9 @@
       "description": "A Depthified Red Deadpool wallpaper theme for all deadpool fans",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Deadpool/preview.jpg",
       "author": "Adaxhhh and Kremon",
-      "tags": ["Deadpool"]
+      "tags": [
+        "Deadpool"
+      ]
     },
     {
       "resolutions": [
@@ -159,7 +161,26 @@
         "Lofi",
         "Study"
       ]
+    },
+    {
+      "resolutions": [
+        {
+          "resolution": "1920x1080",
+          "version": "1.0.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Stormtooper-v1.0.0/Stormtrooper-1920x1080.zip",
+          "liteModeAvailable": false,
+          "sizeMB": 3.8
+        }
+      ],
+      "id": "Stormtrooper",
+      "name": "Stormtrooper",
+      "description": "No Introduction Needed",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/Stormtooper/preview.jpg",
+      "author": "Adaxhhh",
+      "tags": [
+        "Star-Wars"
+      ]
     }
   ],
-  "lastUpdated": "2025-05-30T19:16:44.912085"
+  "lastUpdated": "2025-05-30T20:54:11.080694"
 }
