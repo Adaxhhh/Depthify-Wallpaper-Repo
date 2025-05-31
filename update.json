@@ -94,7 +94,7 @@
       "description": "A shining moon wallpaper theme beautifully crafted with depth effect",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/island-night-moon/preview.jpg",
       "author": "Adaxhhh",
-      "tags": "Night"
+      "tags": ["Night"]
     },
     {
       "resolutions": [
