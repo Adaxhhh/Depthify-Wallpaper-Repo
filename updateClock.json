@@ -1,0 +1,20 @@
+{
+  "clockThemes": [
+    {
+      "id": "digitalModern",
+      "name": "Digital Modern",
+      "author": "ClockMaster Flex",
+      "description": "A sleek and modern digital clock with customizable date display. Comes in standard and large sizes.",
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/Clock/Dagger-Dance/preview.jpg",
+      "tags": ["digital", "modern", "minimalist"],
+      "resolutions": [
+        {
+          "resolution": "1366x768",
+          "version": "1.0s.0",
+          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Clock(Dagger-Dance)-v1.0.0/Clock01.zip",
+          "sizeMB": 0.5
+        }
+      ]
+    }
+  ]
+}
