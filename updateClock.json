@@ -7,6 +7,7 @@
       "description": "A sleek and modern digital clock with customizable date display. Comes in standard and large sizes.",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/Clock/Dagger-Dance/preview.jpg",
       "tags": ["digital", "modern", "minimalist"],
+	  "isCustomizable": true,
       "resolutions": [
         {
           "resolution": "1366x768",
