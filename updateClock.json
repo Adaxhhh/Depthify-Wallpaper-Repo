@@ -1,8 +1,8 @@
 {
   "clockThemes": [
     {
-      "id": "digitalModern",
-      "name": "Digital Modern",
+      "id": "MonoEdge",
+      "name": "Mono Edge",
       "author": "ClockMaster Flex",
       "description": "A sleek and modern digital clock with customizable date display. Comes in standard and large sizes.",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/Clock/Dagger-Dance/preview.jpg",
@@ -10,9 +10,9 @@
 	  "isCustomizable": true,
       "resolutions": [
         {
-          "resolution": "1366x768",
-          "version": "1.0s.0",
-          "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Clock(Dagger-Dance)-v1.0.0/Clock01.zip",
+          "resolution": "All Resolutions",
+          "version": "1.0.0",
+          "downloadUrl": "https://api.telegram.org/file/bot8037474397:AAFPkTsKuxIDrdW0uPZGaVQtuwEji6SeIRs/documents/file_2.zip",
           "sizeMB": 0.5
         }
       ]
