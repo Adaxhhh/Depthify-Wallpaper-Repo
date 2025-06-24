@@ -68,7 +68,7 @@
           "downloadUrl": "https://github.com/Adaxhhh/Depthify-Wallpaper-Repo/releases/download/Spider-Man-v1.0.0-1920x1080/Spider-Man.zip",
           "liteModeAvailable": false,
           "defaultLiteMode": false,
-          "sizeMB": 4.0
+          "sizeMB": 4
         }
       ]
     },
@@ -94,7 +94,9 @@
       "description": "A shining moon wallpaper theme beautifully crafted with depth effect",
       "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/refs/heads/main/wallpapers/island-night-moon/preview.jpg",
       "author": "Adaxhhh",
-      "tags": ["Night"]
+      "tags": [
+        "Night"
+      ]
     },
     {
       "resolutions": [
@@ -179,6 +181,25 @@
       "author": "Adaxhhh",
       "tags": [
         "Star-Wars"
+      ]
+    },
+    {
+      "id": "iron-man",
+      "name": "Iron Man",
+      "description": "Depthified Iron Man Wallpaper",
+      "author": "Adaxhhh",
+      "tags": [
+        "Marvel",
+        "Iron-Man"
+      ],
+      "previewUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/previews/iron-man_preview.jpg",
+      "resolutions": [
+        {
+          "resolution": "1366x768",
+          "downloadUrl": "https://raw.githubusercontent.com/Adaxhhh/Depthify-Wallpaper-Repo/main/wallpapers/iron-man/iron-man_1366x768.zip",
+          "version": 1,
+          "sizeMB": 4.82
+        }
       ]
     }
   ],
